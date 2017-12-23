@@ -7,6 +7,8 @@ import java.util.List;
  */
 public class Test {
     public static void main(String[] args) {
+        int hp = 5;
+        System.out.println(String.format("%s HP", hp));
         // CRUD
 
 //        String course1 = "CI";
